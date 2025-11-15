@@ -28,7 +28,7 @@
 4. **ست کردن وب‌هوک**  
    کافی است از لینک زیر استفاده کنید تا ربات به سورس شما متصل شود:
    ```bash
-   https://api.telegram.org/bot[TOKEN]/setWebhook?url=[YOUR_DOMAIN]
+   https://api.telegram.org/bot[TOKEN]/setWebhook?url=[YOUR_URL]
    
 فقط `TOKEN` و `YOUR_URL` را با اطلاعات خودتان جایگزین کنید!
 
